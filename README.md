@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @big-nosed
+- 👋 Hi, I’m @bignosecss
 - 👀 I’m interested in thinking and learning new things
 - 🌱 I’m currently learning how to use a variety of tools
 - 💞️ I’m looking to collaborate on 
